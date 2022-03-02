@@ -12,3 +12,8 @@
 
 ### Link da apresentação:
   * [Heterogeneidade](https://github.com/GabrielZoppo/sdist/blob/main/Heterogeneidade.pdf)
+
+<!-- ### Perguntas: -->
+<!-- * Como é obtida a característica de sistema aberto? -->
+<!-- * Qual o maior desafio dos projetistas de sistemas distribuídos? -->
+<!-- * O que são sistemas distribuídos abertos? -->
