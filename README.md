@@ -27,3 +27,6 @@
   * Para pesquisa no Google utilizar keywords como: Free Infrastructure as a Service (IaaS) Providers
   * [Web-based Infrastructure as a Service (IaaS) Software](https://www.getapp.com/it-management-software/iaas/)
   * [Serviços de Nuvem Gratuitos da Oracle](https://www.oracle.com/br/cloud/free/)
+
+### Link da apresentação:
+* []()
