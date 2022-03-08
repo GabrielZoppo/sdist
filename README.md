@@ -25,5 +25,5 @@
 * **Entrega:** breve apresentação com as características da plataforma e o motivo da escolha. Demonstração de um acesso por ssh
 * **Materiais como ponto de partida para busca:**
   * Para pesquisa no Google utilizar keywords como: Free Infrastructure as a Service (IaaS) Providers
-  * Web-based Infrastructure as a Service (IaaS) Software
-  * Serviços de Nuvem Gratuitos da Oracle
+  * [Web-based Infrastructure as a Service (IaaS) Software](https://www.getapp.com/it-management-software/iaas/)
+  * [Serviços de Nuvem Gratuitos da Oracle](https://www.oracle.com/br/cloud/free/)
