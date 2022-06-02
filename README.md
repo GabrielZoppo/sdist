@@ -61,6 +61,11 @@
 * Para que é voltado a classe ServerSocket: 
 
 ### Respostas:
+*
+*
+*
+*
+
 <!-- 
 * Domain Name Service, que pesquisa nomes DNS na Internet, é implementado sobre UDP. O Voice Over IP (VoIP) também é executado sobre UDP.
 * vetor de bytes contendo a mensagem, comprimento da mensagem ,endereço IP, número da porta
