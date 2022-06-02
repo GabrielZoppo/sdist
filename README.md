@@ -55,10 +55,10 @@
 *  [A API para protocolos Internet](https://github.com/GabrielZoppo/sdist/blob/main/API%20para%20protocolos%20internet%20-%20Gabriel%20Harter%20Zoppo%20-%20Sistemas%20Distribuidos.pdf)
 
 ### Perguntas:
-* De exemplos de aplicações do UDP:
-* O que contem o pacote do datagram:
-* De exemplos de aplicação do TCP:
-* Para que é voltado a classe ServerSocket: 
+* De exemplos de aplicações do UDP?
+* O que contem o pacote do datagram?
+* De exemplos de aplicação do TCP?
+* Para que é voltado a classe ServerSocket? 
 
 ### Respostas:
 *
