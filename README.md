@@ -31,4 +31,3 @@
 ### Link da apresentação:
 * [HC3 - Virtualization Platform](https://github.com/GabrielZoppo/sdist/blob/main/HC3%20Virtualization%20Platform%20-%20Sistemas%20Distribuidos%20-%20Gabriel%20Harter%20Zoppo%20(1).pdf)
 
-## 3º Atividade:
