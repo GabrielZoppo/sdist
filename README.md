@@ -38,7 +38,7 @@
 * Preparar três perguntas sobre o tema do colega seguinte na lista e guardar consigo. O último da lista irá perguntar para o primeiro.
 
 ### Apresentação:
-*  [Elementos Arquitetônicos]()
+*  [Elementos Arquitetônicos](https://github.com/GabrielZoppo/sdist/blob/main/Heterogeneidade.pdf)
 
 ### Perguntas:
 *
