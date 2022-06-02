@@ -31,3 +31,30 @@
 ### Link da apresentação:
 * [HC3 - Virtualization Platform](https://github.com/GabrielZoppo/sdist/blob/main/HC3%20Virtualization%20Platform%20-%20Sistemas%20Distribuidos%20-%20Gabriel%20Harter%20Zoppo%20(1).pdf)
 
+## Quinta Atividade
+* **Objetivo:** Revisão de Modelos em Sistemas Distribuídos
+* Elaborar uma apresentação referente ao tema especificado e postar no repositório da disciplina no GitHub pessoal. A apresentação deverá ter uma duração de no máximo 10 min. Preferencialmente empregar para a postagem o padrão de arquivos PDF.
+* **Data limite para postagem:** 29/04/2022 até o horário da aula (20:45 h)
+* Preparar três perguntas sobre o tema do colega seguinte na lista e guardar consigo. O último da lista irá perguntar para o primeiro.
+
+### Apresentação:
+*  [Elementos Arquitetônicos]()
+
+### Perguntas:
+*
+*
+*
+
+## Sexta Atividade:
+* **Objetivo:** Revisar APIs e Protocolos para Comunicação
+* Elaborar uma apresentação referente ao tema especificado e postar no repositório da disciplina no GitHub pessoal. A apresentação deverá ter uma duração de no máximo 10 min. Preferencialmente empregar para a postagem o padrão de arquivos PDF.
+* Preparar quatro perguntas sobre o tema que será apresentado.
+* **Data limite para postagem:** 03/05/2022 até o horário da aula (20:45 h)
+
+### Apresentação:
+*  [A API para protocolos Internet]()
+
+### Perguntas:
+*
+*
+*
