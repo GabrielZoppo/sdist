@@ -85,9 +85,4 @@ vários tipos de comportamento de requisição?
 * Como funcionam a negociação de conteúdo e a Autenticação?
 * Quais são os métodos HTTP?
 
-### Respostas:
-*
-*
-*
-*
-
+### Respostas: (Na Apresentação)
