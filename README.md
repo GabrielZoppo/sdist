@@ -75,10 +75,19 @@ soquete em uma porta de serviço para receber requisições de connect dos clien
 * Data limite para postagem: 24/06/2022 até o horário da aula (20:45 h)
 
 ### Apresentação:
-* [Protocolos de requisição-resposta]()
+* [Protocolos de requisição-resposta](https://github.com/GabrielZoppo/sdist/blob/main/Protocolos%20de%20requisi%C3%A7%C3%A3o-resposta%20-%20Sistemas%20distribuidos%20-%20Gabriel%20Harter%20Zoppo.pdf)
 
 ### Perguntas:
-* 
-* 
+* Que tipo de falhas ocorrem em protocolos de requisição resposta?
+* Quais são os três protocolos, que produzem diferentes comportamentos
+na presença de falhas de comunicação e são usados para implementar
+vários tipos de comportamento de requisição? 
+* Como funcionam a negociação de conteúdo e a Autenticação?
+* Quais são os métodos HTTP?
+
+### Respostas:
 *
 *
+*
+*
+
