@@ -68,3 +68,17 @@
 * Classe se destina a ser usada por um servidor para criar um
 soquete em uma porta de serviço para receber requisições de connect dos clientes.
 
+## Sétima Atividade
+* Objetivo: Revisar Tópicos em Invocação Remota e Comunicação Indireta
+* Elaborar uma apresentação referente ao tema especificado e postar no repositório da disciplina no GitHub pessoal. A apresentação deverá ter uma duração entre 10 e 15 min. Preferencialmente empregar para a postagem o padrão de arquivos PDF.
+* Preparar quatro perguntas sobre o tema que será apresentado
+* Data limite para postagem: 24/06/2022 até o horário da aula (20:45 h)
+
+### Apresentação:
+* [Protocolos de requisição-resposta]()
+
+### Perguntas:
+* 
+* 
+*
+*
