@@ -61,15 +61,10 @@
 * Para que é voltado a classe ServerSocket? 
 
 ### Respostas:
-*
-*
-*
-*
 
-<!-- 
 * Domain Name Service, que pesquisa nomes DNS na Internet, é implementado sobre UDP. O Voice Over IP (VoIP) também é executado sobre UDP.
 * vetor de bytes contendo a mensagem, comprimento da mensagem ,endereço IP, número da porta
 * HTTP: o protocolo de transferência de hipertexto é usado para comunicação entre navegadores e servidores Web, FTP: o protocolo de transferência de arquivos permite a navegação em diretórios em um computador remoto e que arquivos sejam transferidos de um computador para outro por meio de uma conexão, Telnet: o serviço telnet dá acesso a um computador remoto por meio de uma sessão de terminal, SMTP: o protocolo de transferência de correio eletrônico é usado para enviar correspondência entre computadores.
 * Classe se destina a ser usada por um servidor para criar um
 soquete em uma porta de serviço para receber requisições de connect dos clientes.
--->
+
